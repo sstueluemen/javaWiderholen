@@ -1,0 +1,19 @@
+package Test;
+
+public class DatenTypen {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		String text= "Wiederholung von Datentypen";
+		String meinName="Selim";
+		
+		System.out.print(text);
+		System.out.print(meinName);
+		
+		//Mit cocotanation
+		System.out.println(text + " " +meinName);
+
+	}
+
+}

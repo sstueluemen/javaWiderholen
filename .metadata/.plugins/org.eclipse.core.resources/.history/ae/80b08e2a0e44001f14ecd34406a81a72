@@ -1,0 +1,13 @@
+package Test;
+
+public class DatenTypen {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		String text= "Wiederholung von Datentypen";
+		System.out.println(text);
+
+	}
+
+}

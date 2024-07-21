@@ -1,0 +1,14 @@
+package Test;
+
+public class HelloJava {
+
+	public static void main(String[] args) {
+		// Wiederholung java Bases
+		
+		System.out.println("Hallo wieder Java");
+		System.out.print(true);
+		System.out.print("same line");
+
+	}
+
+}
